@@ -1,3 +1,6 @@
 this is sample txt.
 add index
+<<<<<<< HEAD
 conflict
+second conflict test 
+merged..
